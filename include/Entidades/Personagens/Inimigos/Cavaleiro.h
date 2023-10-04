@@ -2,7 +2,7 @@
 
 #include "Inimigo.h"
 
-#define PATH_CAVALEIRO "assets/Inimigos/cavaleiro.png"
+#define PATH_CAVALEIRO "assets/Inimigos/enemy1.png"
 
 #define DANO_CAVALEIRO 50.f
 #define TAM_CAVALEIRO_X 56.0f
