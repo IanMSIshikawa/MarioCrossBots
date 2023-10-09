@@ -99,9 +99,14 @@ namespace Entidades{
             //atualiza velocidade na horizontal
             vel.x = velMax;
 
-            if(posicao.y >= 720 || posicao.x > 1280.f || posicao.x < 0.0f)
+            //impede de sair da tela
+            if(posicao.x < 0.0f)
             {
-                setAtividade(0);
+               pararEsquerda(); 
+            }
+            if  (posicao.x > 1370)
+            {
+                pararDireita();
             }
             //desenha na janela
             imprimir_se();
