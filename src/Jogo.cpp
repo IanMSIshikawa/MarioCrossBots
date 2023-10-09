@@ -83,7 +83,7 @@ void Jogo::executar()
             {
                 j1.resetar();
                 j2.resetar();
-                setGameState(5);
+                setGameState(0);
             }
             break;
         case 5:
