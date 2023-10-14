@@ -1,7 +1,7 @@
 #pragma once
 #include "Menu.h"
 
-#define PATH_MENU_JOGADORES "assets/Fundos/menu_jogadores.jpg"
+#define PATH_MENU_JOGADORES "assets/Fundos/SMB.png"
 #define PATH_SINGLEPLAYER "assets/Buttons/Menu_Jogadores/singleplayer.png"
 #define PATH_MULTIPLAYER "assets/Buttons/Menu_Jogadores/multiplayer.png"
 

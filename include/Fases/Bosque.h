@@ -2,7 +2,7 @@
 #include <fstream>
 #include "Fase.h"
 
-#define PATH_BOSQUE "assets/Fundos/fundoMario.jpg"
+#define PATH_BOSQUE "assets/Fundos/fundoMario2.jpg"
 
 
 namespace Fases{

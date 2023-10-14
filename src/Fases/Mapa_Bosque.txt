@@ -2,14 +2,14 @@
                                                          
                             
                             
-                c   c        
-                c   c         
-                c m c       
-                p p p      
- p p     p p               
+                           
+                            
+                 m        
+ e              p p p      
+ p p     p p         e      
                      p       
     p p p     p             
-                           
+                   e        
         p          p       
-                                           
+            e                              
 p p p p p p p p p p p p p p p

@@ -1,7 +1,7 @@
 #pragma once
 #include "Menu.h"
 
-#define PATH_MENU_FASES "assets/Fundos/menu_fases.jpg"
+#define PATH_MENU_FASES "assets/Fundos/SMB.png"
 #define PATH_FASE1 "assets/Buttons/Menu_Fases/fase1.png"
 #define PATH_FASE2 "assets/Buttons/Menu_Fases/fase2.png"
 
